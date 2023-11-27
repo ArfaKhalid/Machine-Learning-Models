@@ -4,7 +4,7 @@
 This repository contains files related to sales prediction and retail data analysis using machine learning models. The dataset used in these analyses includes the following files:
 
  1. melb_data.csv
-   - This file contains data related to Melbourne housing, which may be used for various data analysis or machine learning tasks.
+     - This file contains data related to Melbourne housing, which may be used for various data analysis or machine learning tasks.
 
 2. train.csv
    - The training dataset used for developing machine learning models.
