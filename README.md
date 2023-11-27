@@ -1,6 +1,4 @@
 
-
-```markdown
 # Sales Prediction and Retail Data Analysis
 
 This repository contains files related to sales prediction and retail data analysis using machine learning models. The dataset used in these analyses includes the following files:
