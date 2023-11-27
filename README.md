@@ -17,7 +17,7 @@ This repository contains files related to sales prediction and retail data analy
 4. Retail_Data_Analysis_using_Random_Forest_ML_Model
    - Another Jupyter Notebook created using Colaboratory that focuses on retail data analysis using a Random Forest machine learning model.
 
-5. ales_Prediction_using_DecisionTreeRegressor_Model
+5. Sales_Prediction_using_DecisionTreeRegressor_Model
    - A Jupyter Notebook created using Colaboratory that specifically targets sales prediction using a Decision Tree Regressor model.
 
 ## Usage
